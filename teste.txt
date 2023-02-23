@@ -1,1 +1,11 @@
-primeira linha do arquivo teste
+git init
+
+git status
+
+git commit -m "descrição"
+
+git log
+
+git config --global user.name "nome"
+
+git config --global user.email "email"

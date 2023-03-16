@@ -1,0 +1,17 @@
+git init
+
+git status
+
+git commit -m "descrição"
+
+git log
+
+git config --global user.name "nome"
+
+git config --global user.email "email"
+
+git remoto + endereço
+
+git push -u origin main
+
+git pull
